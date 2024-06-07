@@ -6,7 +6,7 @@
 ### :pushpin: About Me :
 - :computer: May '23 graduate with a B.S. in Computer Science & Engineering and a Minor in Mathematics from UNR.
 
-- :books: Currently learning about the MERN stack by developing a notes web app.
+- :books: Currently learning Machine Learning
 
 - :space_invader: In my free time, I like to play video games, play piano/guitar, read, and learn new topics. 
 
