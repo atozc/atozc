@@ -4,9 +4,9 @@
 </div>
 
 ### :pushpin: About Me :
-- :computer: May '23 graduate with a B.S. in Computer Science & Engineering and a Minor in Mathematics from UNR.
+- :computer: Current MS IT Management student!
 
-- :books: Currently learning Machine Learning
+- :books: Currently learning Machine Learning & AI
 
 - :space_invader: In my free time, I like to play video games, play piano/guitar, read, and learn new topics. 
 
