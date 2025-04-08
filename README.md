@@ -3,15 +3,6 @@
   <h1>Hello World!</h1>
 </div>
 
-### :pushpin: About Me :
-- :computer: Current MS IT Management student!
-
-- :books: Currently learning Machine Learning & AI
-
-- :space_invader: In my free time, I like to play video games, play piano/guitar, read, and learn new topics. 
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-crystalatoz-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/crystalatoz/))
-
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
