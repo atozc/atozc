@@ -18,6 +18,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" **alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://miro.medium.com/max/1088/1*L02Ojuxa39jZefsd2LkbXw.png" title="Snowflake" **alt="Snowflake" width="80" height="40"/>&nbsp;
+  <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" title="Excel" **alt="Excel" width="40" height="40"/>&nbsp;
 </div>
 
 ---
